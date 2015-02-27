@@ -13,6 +13,8 @@ We’re forming the Engineering Junto to solve this problem. Our goal: an ambass
 You’re here because somebody believes you belong in this club. This is not a large commitment, but there are rules and expectations. We can’t let the group become too large because that defeats the purpose; we can’t let the conversations peter-out because that defeats the purpose; we can’t have random, easy questions because that defeats the purpose. Our rules:
 
  * Keep conversations engineering-centric.
+ * Absolutely no recruiting.
+ * No sharing of proprietary information (or asking for it!).
  * No questions that can be answered by Googling in <30 minutes.
  * Must be an active Ambassador of the community: regularly answer questions, route questions to/from your company, participate in events.
  * Be open to learn from others and will speak honestly about your experiences.
@@ -21,6 +23,6 @@ Finally, since we’re all about iterating & failing fast… The rules will chan
 
 Thanks for joining.
 
-Dobromir, Olivier, Peter, Christophe, and Chris
+Dobromir, Olivier, Peter, and Chris
 
 P.S. Why Engineering Junto? [Just check it](http://en.wikipedia.org/wiki/Junto_%28club%29)

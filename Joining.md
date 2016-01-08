@@ -1,8 +1,4 @@
 # Application Process
-You currently have to be invited to apply. Once invited, you should be able to visit this form: http://goo.gl/4Qlbwb
+You can apply to join our Google Group here: https://groups.google.com/forum/#!forum/infra-eng . We'll be sending monthly event reminders here.
 
-# Onboarding process
-After someone has been accepted into the Junto we need to sign them up for:
-* Slack: http://eng-junto.slack.com
-* Github: http://github.com/eng-junto
-* Greylock Community: https://community.greylock.com/members/ [only Chris can do this now?]
+It's really helpful (but no longer required) to fill out this form: http://goo.gl/4Qlbwb

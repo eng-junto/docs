@@ -1,7 +1,7 @@
 # Engineering Junto
 An engineering club for folks who want to build better systems. Sponsored by Greylock (they pay for the drinks ;)
 
-Interested? Read our [Application Instructions](Joining.md)
+Interested? Read our [Application Instructions](Joining.md) or come to our next event, Feb. 2nd 2016: http://www.cvent.com/events/greylock-community-infrastructure-engineering/event-summary-a39da413e2d84a66a19d6657373990ed.aspx
 
 # Manifesto
 

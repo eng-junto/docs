@@ -1,5 +1,5 @@
 # Engineering Junto
-An engineering club for folks who want to build better software.
+An engineering club for folks who want to build better systems. Sponsored by Greylock (they pay for the drinks ;)
 
 Interested? Read our [Application Instructions](Joining.md)
 
